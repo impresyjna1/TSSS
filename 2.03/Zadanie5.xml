@@ -1,0 +1,9 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:tsiss="http://semantic.cs.put.poznan.pl/dokuwiki/#">
+	<rdf:Description rdf:about="http://semantic.cs.put.poznan.pl/dokuwiki/#Legenda_o_Bialej_Damie">
+		<dc:creator>
+			<rdf:Description>
+				<tsiss:burgrabia rdf:resource="http://semantic.cs.put.poznan.pl/dokuwiki/#Zamek_w_Korniku" />
+			</rdf:Description>
+		</dc:creator>
+	</rdf:Description>
+</rdf:RDF>

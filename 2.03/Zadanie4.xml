@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:tsiss="http://semantic.cs.put.poznan.pl/dokuwiki/#">
+	<rdf:Description rdf:about="http://semantic.cs.put.poznan.pl/dokuwiki/#Portret_Teofili_z_Dzialynskich">
+		<tsiss:maLokalizacje>
+			<rdf:Description rdf:about="http://semantic.cs.put.poznan.pl/dokuwiki/#Zamek_w_Korniku">
+				<tsiss:maStyl rdf:resource="http://semantic.cs.put.poznan.pl/dokuwiki/#Neogotyk" />
+			</rdf:Description>
+		</tsiss:maLokalizacje>
+		<dc:creator rdf:resource="http://semantic.cs.put.poznan.pl/dokuwiki/#Antoine_Pesne" />
+	</rdf:Description>
+	<rdf:Description rdf:about="http://semantic.cs.put.poznan.pl/dokuwiki/#Teofila_z_Dzialynskich_Szoldrska_Potulicka">
+		<tsiss:alternatywnaNazwa rdf:resource="http://semantic.cs.put.poznan.pl/dokuwiki/#Biala_Dama" />
+	</rdf:Description>
+</rdf:RDF>

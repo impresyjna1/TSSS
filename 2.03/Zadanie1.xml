@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:tsiss="http://semantic.cs.put.poznan.pl/dokuwiki/#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="http://semantic.cs.put.poznan.pl/dokuwiki/#Zamek_Krolewski_na_Wawelu">
+    <tsiss:maLokalizacje rdf:resource="http://semantic.cs.put.poznan.pl/dokuwiki/#Krakow" />
+  </rdf:Description>
+</rdf:RDF>
+  
+  
